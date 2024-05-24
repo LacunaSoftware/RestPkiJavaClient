@@ -1,2 +1,3 @@
 manually_generated_files/gradle.properties
 *.gpg
+dist/gradle.properties
