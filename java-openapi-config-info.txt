@@ -1,0 +1,2 @@
+{
+// See all available options in https://openapi-generator.tech/docs/generators/java

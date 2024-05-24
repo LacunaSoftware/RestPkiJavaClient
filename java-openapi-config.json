@@ -1,0 +1,19 @@
+{
+  "apiPackage": "com.lacunasoftware.client.api",
+  "artifactDescription": "Rest PKI Ng Java Client",
+  "artifactVersion": "0.9.0",
+  "artifactId": "restpki-ng-client-java",
+  "booleanGetterPrefix": "is",
+  "dateLibrary": "java8",
+  "developerEmail": "danilob@lacunasoftware.com",
+  "developerName": "Danilo Bispo",
+  "developerOrganization": "LacunaSoftware",
+  "developerOrganizationUrl": "https://lacunasoftware.com",
+  "ensureUniqueParams": true,
+  "generateBuilders": true,
+  "groupId": "com.lacunasoftware",
+  "hideGenerationTimestamp": true,
+  "invokerPackage": "com.lacunasoftware.client",
+  "library": "restclient",
+  "modelPackage": "com.lacunasoftware.client.model"
+}
